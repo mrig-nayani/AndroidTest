@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Savics</string>
+    <string name="nav_header_subtitle">support@savics.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_reset">Reset</string>
+</resources>
